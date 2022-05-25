@@ -125,7 +125,7 @@ section.buttons{
     border-radius: 6px;
 }
 
-.button{
+button{
     height: 35px;
     background-color: wheat;
     border-radius: 6px;
@@ -133,7 +133,7 @@ section.buttons{
     cursor: pointer;
     box-shadow: 2px 2px 3px rgb(17, 15, 15);
 }
-.button:hover{
+button:hover{
     background-color: rgb(248, 213, 148);
 }
 .reset{
